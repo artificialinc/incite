@@ -13,7 +13,7 @@ import (
 
 	"github.com/aws/aws-sdk-go/aws/session"
 
-	"github.com/gogama/incite"
+	"github.com/artificialinc/incite"
 )
 
 func ExampleQuery() {

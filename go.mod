@@ -1,4 +1,4 @@
-module github.com/gogama/incite
+module github.com/artificialinc/incite
 
 go 1.14
 
